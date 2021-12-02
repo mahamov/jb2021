@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Fira Code SemiBold";
+   src: url("fonts/Fira Code SemiBold.woff") format("woff"), url("fonts/Fira Code SemiBold.eot") format("embedded-opentype"), url("fonts/Fira Code SemiBold.ttf") format("truetype"), url("fonts/Fira Code SemiBold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Fira Code";
+   src: url("fonts/Fira Code Bold.woff") format("woff"), url("fonts/Fira Code Bold.eot") format("embedded-opentype"), url("fonts/Fira Code Bold.ttf") format("truetype"), url("fonts/Fira Code Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Fira Code";
+   src: url("fonts/Fira Code Regular.woff") format("woff"), url("fonts/Fira Code Regular.eot") format("embedded-opentype"), url("fonts/Fira Code Regular.ttf") format("truetype"), url("fonts/Fira Code Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
